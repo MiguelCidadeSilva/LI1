@@ -1,2 +1,2 @@
 # LI1
-Projeto LI
+Projeto LI / Pacman
